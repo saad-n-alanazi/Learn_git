@@ -1,2 +1,3 @@
 this is file A
+changes on master 
 changes on featureA
