@@ -1,2 +1,2 @@
 this is file A
-here changes on feature A 
+changes on featureA
