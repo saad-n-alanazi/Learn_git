@@ -1,3 +1,2 @@
 this is file A
-
-version 2 changes 
+here changes on feature A 
